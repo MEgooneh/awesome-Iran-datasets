@@ -25,10 +25,10 @@ A collective list of Iranian/Persian Datasets.
 ---
 
 ## Persian
-* [کلمات اسپم پیامک‌ها](https://github.com/amirshnll/persian-sms-spam-word/)
-* [کلمات فارسی](https://github.com/amirshnll/persianwordjson/)
+* [کلمات اسپم پیامک‌ها](https://www.kaggle.com/datasets/amirshnll/persiansmsspamword)
+* [کلمات فارسی](https://www.kaggle.com/datasets/amirshnll/persian-words)
 * [کلمات بد و نامناسب فارسی](https://www.kaggle.com/amirshnll/persian-swear-words)
-* [پیامک‌های فارسی](https://www.kaggle.com/amirshnll/persian-sms-dataset)
+* [پیامک‌های فارسی](https://www.kaggle.com/datasets/amirshnll/persian-sms-dataset)
 * [نام‌های فارسی به همراه جنسیت(۲۰هزار)](https://github.com/nikahd99/iranian-Names-Database-By-Gender)
 * [عبارات دستنویس فارسی](https://github.com/DarjaGFX/IranShahr)
 * [وکال فارسی](https://www.kaggle.com/datasets/sabermalek/pcvcspeech)
@@ -56,7 +56,7 @@ A collective list of Iranian/Persian Datasets.
 
 
 ## Health care
-* [پایگاه‌های انتقال خون ایران](https://github.com/amirshnll/ibto-datasets) 
+* [پایگاه‌های انتقال خون ایران](https://www.kaggle.com/datasets/amirshnll/ibtodatasets) 
 * [اخبار خبرگزاری ایسنا درباره‌ی کوید۱۹/کرونا](https://www.kaggle.com/datasets/malekzadeharman/isnacoronanews)
 * [تصادفات جاده‌ای](https://www.kaggle.com/datasets/rezanematpour/iran-road-trafficrelated-injuries-and-fatalities)
 ## Social Media
@@ -71,14 +71,14 @@ A collective list of Iranian/Persian Datasets.
 * [چت نوجوان‌ها](https://www.kaggle.com/datasets/rezaali/dataset-for-teenagers-chat-telegram-group-persian)
 * [مقالات فارسی در ویرگول](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
 ## Governments
-* [پایگاه های انتقال خون ایران](https://github.com/amirshnll/ibto-datasets) 
+* [پایگاه های انتقال خون ایران](https://www.kaggle.com/datasets/amirshnll/ibtodatasets) 
 * [کدهای شهرستان‌ها](https://github.com/benyaminsalimi/Iranian-national-code-generator)
 * [قانون اساسی جمهوری اسلامی ایران](https://github.com/mehdisadeghi/iranconstitution)
 * [علائم ترافیکی و راهنمایی‌رانندگی ایران](https://www.kaggle.com/datasets/saraparsaseresht/persian-traffic-sign-dataset-ptsd)
 
 
 ## News
-* [اخبار فارسی](https://www.kaggle.com/amirshnll/persian-news-dataset)
+* [اخبار فارسی](https://www.kaggle.com/datasets/amirshnll/persian-news-dataset)
 * [اخبار فارسی ۲](https://github.com/skorani/Iran-Knowledge-Graph)
 * [اخبار خبرگزاری تسنیم](https://www.kaggle.com/datasets/amirpourmand/tasnimdataset)
 * [اخبار بی‌ بی سی فارسی](https://www.kaggle.com/datasets/malekzadeharman/bbc-persian-archive)
@@ -94,7 +94,7 @@ A collective list of Iranian/Persian Datasets.
 * [تحلیل و داده‌های کشاورزی در ایران](https://github.com/BahramJannesar/IranAgricultureDataAnalysis) 
 
 ## Finance
-* [بورس تهران](https://github.com/amirshnll/tsetmc-dataset)
+* [بورس تهران](https://www.kaggle.com/datasets/amirshnll/tsetmc-dataset)
 * [سهام و بورس](https://github.com/sfmqrb/dataset)
 
 ## Politics
