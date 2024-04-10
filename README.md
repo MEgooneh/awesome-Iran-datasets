@@ -37,7 +37,6 @@ A collective list of Iranian/Persian Datasets.
 * [وکال فارسی](https://www.kaggle.com/datasets/sabermalek/pcvcspeech)
 * [وکال فارسی ۲](https://github.com/shenasa-ai/speech2text#part-of-our-dataset-v01--)
 * [تصاویر دستنویس شهرهای ایران به فارسی](https://github.com/mehrdad-moradi/handwritten-city-names-in-Arabic-Persian) - [لینک۲](https://www.kaggle.com/datasets/mehmor/arabicpersian-handwritten-cities-for-postal-apps)
-* [دیتاست تمام مقالات ویکیپدیا فارسی](https://www.kaggle.com/datasets/miladfa7/persian-wikipedia-dataset)
 * [دیتاست سوال و پاسخ سوالات تعریفی فارسی](https://www.kaggle.com/datasets/sajjadayobi360/persianqa)
 * [دیتاست درخواست و پرسش برای دستیار صوتی](https://www.kaggle.com/datasets/halflingwizard/persian-questions)
 * [حروف الفبا با فونت های متفاوت](https://www.kaggle.com/datasets/sabermalek/plf50)
@@ -116,7 +115,7 @@ A collective list of Iranian/Persian Datasets.
 
 ## Photos
 * [علائم تجاری شرکت‌ها](https://github.com/kargaranamir/Trademarks-from-Iranian-Companies)
-* [آگهی‌های دیوار](https://phanous.ir/divar-posts-dataset/) - [لینک ۲](https://github.com/ebadico/divar-dataset/)
+* [آگهی‌های دیوار](https://github.com/ebadico/divar-dataset/)
 * [آگهی‌های ماشین در سایت دیوار](https://www.kaggle.com/datasets/sinatavakolibanizi/dataset-of-car-category-ads-on-the-divar-site)
 * [تصاویر ماشین‌های مرسوم در ایران](https://github.com/SeyedHamidreza/car_plate_dataset)
 * [پلاک‌های ماشین ایرانی](https://github.com/alitourani/Iranis-dataset)
