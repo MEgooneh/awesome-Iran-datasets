@@ -1,5 +1,7 @@
 # Awesome Iranian Datasets [![Awesome](https://github.com/MEgooneh/awesome-iran-datasets/blob/master/assets/badge.svg)](https://github.com/MEgooneh/awesome-iran-datasets)
 
+[![Check Links](https://github.com/MEgooneh/awesome-Iran-datasets/actions/workflows/links.yml/badge.svg)](https://github.com/MEgooneh/awesome-Iran-datasets/actions/workflows/links.yml)
+
 A collective list of Iranian/Persian Datasets.
 
 .لیستی گردآوری شده از دادگان(دیتاست)های ایرانی و فارسی
