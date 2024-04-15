@@ -68,7 +68,6 @@ A collective list of Iranian/Persian Datasets.
 * [توییت‌های طرفداران داعش](http://dataheart.ir/article/3390/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-%D8%AA%D9%88%DB%8C%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B7%D8%B1%D9%81%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4)
 * [توییت‌های انگلیسی رئیس‌جمهور روحانی](http://dataheart.ir/article/3369/%D8%AF%DB%8C%D8%AA%D8%A7%D8%B3%D8%AA-(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AF%D8%A7%D8%AF%D9%87)-%D8%AA%D9%85%D8%A7%D9%85%DB%8C-%D8%AA%D9%88%DB%8C%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B1%D9%88%D8%AD%D8%A7%D9%86%DB%8C)
 * [توییت‌های انگلیسی وزیرامورخارجه آقای ظریف](http://dataheart.ir/article/3368/%D8%AF%DB%8C%D8%AA%D8%A7%D8%B3%D8%AA-(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AF%D8%A7%D8%AF%D9%87)-%D8%AA%D9%85%D8%A7%D9%85%DB%8C-%D8%AA%D9%88%DB%8C%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B8%D8%B1%DB%8C%D9%81)
-* [توییت‌های سیاسیون ایرانی](https://github.com/miladfa7/Iranian-politicians-twitter-dataset-persian)
 * [کامنت‌های اینستاگرام پیج نماوا و فیلیمو](https://github.com/socialonet/iran-instagram-dataset)
 * [نظرات کالاهای دیجیکالا](https://www.kaggle.com/datasets/soheiltehranipour/digikala-comments-persian-sentiment-analysis)
 * [توییت‌های فارسی دسته‌بندی شده بر اساس احساسات](https://www.kaggle.com/datasets/behdadkarimi/persian-tweets-emotional-dataset)
