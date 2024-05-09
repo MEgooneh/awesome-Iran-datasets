@@ -102,6 +102,8 @@ A collective list of Iranian/Persian Datasets.
 * [آمار اقتصاد/ جامعه/ زیست‌محیطی ایران (بانک جهانی) - سری زمانی](https://www.kaggle.com/datasets/alireza151/iran-economics-social-and-environmental-timeseries)
 * [میزان تولید و مصرف نفت](https://www.kaggle.com/datasets/peimandaii/iranian-oil-production-and-consumption-data)
 * [اطلاعات پروازهای داخلی و خارجی ایران سال ۲۰۲۳](https://www.kaggle.com/datasets/mojikab3/iran-inbound-and-outbound-flights-2023)
+* [بیش از ۲ میلیون محصول و نظرات از سایت باسلام(۱۴۰۳)](https://www.kaggle.com/datasets/radeai/basalam-comments-and-products)
+* [بیش از ۱ میلیون محصول دیجیکالا(۱۴۰۳)](https://www.kaggle.com/datasets/radeai/digikala-comments-and-products)
 
 
 ## Politics
