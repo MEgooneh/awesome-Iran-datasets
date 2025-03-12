@@ -89,6 +89,7 @@ A collective list of Iranian/Persian Datasets.
 * [تصاویر و عکس های خبرگزاری تسنیم](https://www.kaggle.com/datasets/malekzadeharman/persian-image-captioning-dataset)
 * [اخبار خبرگزاری ایسنا درباره‌ی کوید۱۹/کرونا](https://www.kaggle.com/datasets/malekzadeharman/isnacoronanews)
 * [خبرگزاری فارس سال ۱۳۹۸](https://www.kaggle.com/datasets/amirhossein76/farsnews1398)
+* [خبرگزاری فارس سال ۱۴۰۱-۱۴۰۲ در ۵ دسته بندی](https://www.kaggle.com/datasets/alirezaparvaresh/iranian-news-dataset)
 
 ## Sports
 * [مجموعه توییت ها درباره ی دربی فوتبال](http://dataheart.ir/article/3654/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-%D8%AA%D9%88%D8%A6%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%AF%D8%B1%D8%A8%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
