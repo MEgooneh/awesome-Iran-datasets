@@ -23,6 +23,7 @@ A collective list of Iranian/Persian Datasets.
 	- [Movies](#movies)
 	- [Musics](#musics)
    	- [Culture](#culture)
+	- [Properties](#properties)
 - [Contributing](#contributing)
 
 ---
@@ -134,6 +135,9 @@ A collective list of Iranian/Persian Datasets.
 
 ## Culture
 * [آمار ازدواج و طلاق](https://www.kaggle.com/datasets/mahdinavaei/marriage-and-divorce-in-iran)
+  
+## Properties
+* [دیتاست یک میلیون آگهی املاک «دیوار»](https://huggingface.co/datasets/divaroffical/real_estate_ads)
 
 # Contributing
 
