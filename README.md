@@ -74,6 +74,8 @@ A collective list of Iranian/Persian Datasets.
 * [چت نوجوان‌ها](https://www.kaggle.com/datasets/rezaali/dataset-for-teenagers-chat-telegram-group-persian)
 * [مقالات فارسی در ویرگول](https://www.kaggle.com/datasets/mehranrafiee/persian-articles-for-labeling)
 * [توییت‌های اعتراضات ۱۴۰۱](https://www.kaggle.com/datasets/konradb/iran-protests-2022-tweets)
+* [دیتاست شامل 67,743 کامنت برچسب‌گذاری‌شده از سایت‌های ایرانی (نماوا، فیلیمو، آپارات) و شبکه‌های اجتماعی (یوتیوب، توییتر، اینستاگرام)](https://github.com/engmahsa/Senti-Persian-Dataset)
+
 ## Governments & Politics
 * [پایگاه های انتقال خون ایران](https://www.kaggle.com/datasets/amirshnll/ibtodatasets) 
 * [کدهای شهرستان‌ها](https://github.com/benyaminsalimi/Iranian-national-code-generator)
